@@ -38,7 +38,7 @@
   <script language="javascript" type="text/javascript">
 var ghensu=2;
 
-$(document).ready(function () {
+jQuery(function(){
     // JSONデータの取得先
 var hage=new Array(50);
 console.log( "textaa" );
