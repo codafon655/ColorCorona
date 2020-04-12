@@ -115,9 +115,9 @@ margin-bottom: 150px;
 .shikoku a {background: #dec3f4;}
 
 .kochi {left: 19%;bottom: 12%;}
-.ehime {left: 27%;bottom: 12%;}
-.kagawa {left: 19%;bottom: 20%;}
-.tokushima {left: 27%;bottom: 20%;}
+.ehime {left: 19%;bottom: 20%;}
+.kagawa {left: 27%;bottom: 20%;}
+.tokushima {left: 27%;bottom: 12%;}
 
 /*中国ブロック-------------------------------*/
 .cyugoku a {background: #f4c7c3;}
