@@ -16,7 +16,7 @@
 <meta property="og:description" content="コロナウイルスの感染者数などを色分けして見やすくしました">
 <meta property="og:image" content="https://blog-imgs-137.fc2.com/6/0/5/605050end/20200411204028ded.png">
 
-<link rel="stylesheet" href="css/style2.css">
+<link rel="stylesheet" href="css/style3.css">
 <script src="js/openclose.js"></script>
 <script src="js/fixmenu.js"></script>
 <script src="js/fixmenu_pagetop.js"></script>
@@ -3849,7 +3849,8 @@ clickBtn7();
 <div id="footermenu" class="inner">
 <ul>
 <li class="title">データ出典</li>
-<li><a href="https://www.mhlw.go.jp/content/10900000/000620956.pdf">（PCR検査陽性者数の累積）</a></li>
+<li><a href="https://www.stopcovid19.jp/">COVID-19 Japan
+新型コロナウイルス対策ダッシュボード</a></li>
 <li><a href="https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou15/02-02.html">感染症指定医療機関の指定状況</a></li>
 <li><a href="https://cio.go.jp/node/2581">オープンソースを活用した新型コロナウイルス感染症対策</a></li>
 <li><a href="https://www.stopcovid19.jp/data/covid19japan.json">新型コロナウイルス感染症（国内事例）</a></li>
