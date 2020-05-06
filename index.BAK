@@ -42,7 +42,7 @@ jQuery(function(){
     // JSONデータの取得先ayaranjaku
 var hage=new Array(50);
 console.log( "textaa" );
-    const url = "https://app.sabae.cc/api/covid19japan.json";//https://jsonplaceholder.typicode.com/users
+    const url = "https://www.stopcovid19.jp/data/covid19japan.json";//https://jsonplaceholder.typicode.com/users
     $.getJSON(url, (data) => {
 	console.log(`userid=${data.area[1].name}`);
 	for (let i=0; i<data.area.length; i++){
@@ -3859,7 +3859,7 @@ clickBtn7();
 
 <ul>
 <li class="title">サイトマップ</li>
-<li><a href="#">トップページ</a></li>
+<li><a href="https://codafon655.github.io/top/index.html">トップページ(作者HP)</a></li>
 </ul>
 <ul>
 <li class="title">リンク</li>
